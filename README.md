@@ -1,4 +1,4 @@
 # some-test-stuff-idk
 first repository thing
 
-that github guild told me to change stuff here
+that github guide told me to change stuff here
